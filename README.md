@@ -1,10 +1,16 @@
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
+- The README.md helps people to understande whether you project is something useful for them.
 
 ## What it does
 
 FEATURES PLACEHOLDER
+- What the project does.
+- The features and benefits of the project
+- How users can get started with the project
+- Where the users can get help with your project
+- Who maintains and contributes to the project
 
 ## Getting started
 
